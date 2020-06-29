@@ -1,0 +1,5 @@
+// import './example/base-type'
+// import './example/symbold'
+// import './example/interface'
+// import './example/function'
+import './example/fanxing'
